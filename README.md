@@ -1,4 +1,4 @@
-### Hola, soy Richard 👋
+### Hola, soy Richard 
 
 Ingeniero de Sistemas (Universidad Santo Tomás) enfocado en desarrollo full-stack y móvil, con experiencia en apps de salud y pipelines de CI/CD.
 
