@@ -1,32 +1,37 @@
-### Hola, soy Richard 
+# Richard Molano
 
-Ingeniero de Sistemas (Universidad Santo Tomás) enfocado en desarrollo full-stack y móvil, con experiencia en apps de salud y pipelines de CI/CD.
+**Systems Engineer**
 
-**Stack principal:** TypeScript · Dart/Flutter · Angular · NestJS · React · React Native
+Fullstack & Mobile Developer | React · TypeScript · .NET · Flutter · Python| Azure & GCP | CI/CD
 
-**Otros lenguajes y herramientas:** Java · C# · Python · .NET · Docker · GitHub Actions · Azure · GCP
+[LinkedIn](https://www.linkedin.com/in/richard-eduardo-molano-cubillos-50a024335/) · [ryh.molano@gmail.com](mailto:ryh.molano@gmail.com)
 
-#### Experiencia actual
+---
 
-**Mobile Developer @ Needzaio** (oct 2024 – actualidad)
-Desarrollo de app móvil en Flutter para gestión de datos de salud, con base de datos GraphQL y pipelines CI/CD para despliegue en tiendas de apps.
+## Stack
 
-#### Proyectos destacados
+**Frontend & Mobile**
 
-**alumni-management-system**
-Sistema de gestión de egresados para la Universidad Santo Tomás. Mejoras de escalabilidad, despliegue y CI/CD completo.
-`TypeScript` `Angular` `NestJS` `Docker` `GitHub Actions`
+<img src="https://skillicons.dev/icons?i=ts,angular,react,flutter,dart" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,dotnet,java,cs,py" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,graphql" />
+
+**Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,azure,gcp,git,github,vscode" />
+
+---
+
+## Featured Projects
 
 **IdeaPro** — [Frontend](https://github.com/RichardMolano/IdeaProFront) · [Backend](https://github.com/RichardMolano/BackIdeaProSAS)
-Sistema de gestión de PQRSD (Peticiones, Quejas, Reclamos, Sugerencias y Denuncias) con chat en tiempo real, administración de usuarios y dashboard de reportes exportables a PDF.
-`TypeScript` `React` `NestJS` `PostgreSQL` `WebSockets`
+PQRSD management system (Petitions, Complaints, Claims, Suggestions, and Reports) with real-time chat, user administration, and a reporting dashboard exportable to PDF.
 
-**Sistema de Votaciones** — [Frontend](https://github.com/RichardMolano/IntegradorNativeVotaciones) · [Backend](https://github.com/RichardMolano/IntegradorNativeVotacionesBackend)
-Aplicación móvil de votación electrónica hecha con React Native. Gestiona usuarios, roles, facultades, candidatos y estudiantes, y registra el voto de cada usuario.
-`TypeScript` `React Native`
-
-#### Bases de datos con las que trabajo
-
-MySQL · SQL Server · MongoDB · PostgreSQL · SQLite · GraphQL
-
-**Contacto:** [LinkedIn](https://linkedin.com/in/richard-molano) · ryh.molano@gmail.com
+**Voting System** — [Frontend](https://github.com/RichardMolano/IntegradorNativeVotaciones) · [Backend](https://github.com/RichardMolano/IntegradorNativeVotacionesBackend)
+Electronic voting mobile app built with React Native. Manages users, roles, faculties, candidates, and students, and records each user's vote.
